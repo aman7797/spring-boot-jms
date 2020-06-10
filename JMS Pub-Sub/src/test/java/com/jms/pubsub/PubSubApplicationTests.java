@@ -1,10 +1,10 @@
-package com.java.jms;
+package com.jms.pubsub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootJmsApplicationTests {
+class PubSubApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,10 +1,10 @@
-package com.java.jms.consumer;
+package com.jms.p2p.consumer;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.messaging.Message;
 import org.springframework.stereotype.Component;
 
-import com.java.jms.model.Person;
+import com.jms.p2p.model.Person;
 
 @Component
 public class Consumer {

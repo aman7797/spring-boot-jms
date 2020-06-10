@@ -1,4 +1,4 @@
-package com.java.jms.model;
+package com.jms.p2p.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

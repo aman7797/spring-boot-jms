@@ -1,4 +1,4 @@
-package com.java.jms.producer;
+package com.jms.p2p.producer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -6,7 +6,8 @@ import org.springframework.jms.annotation.EnableJms;
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.stereotype.Component;
 
-import com.java.jms.model.Person;
+import com.jms.p2p.model.Person;
+
 
 @Component
 @EnableJms

@@ -55,4 +55,4 @@
 
 ## Output
 
-    ![Artemis Output](img/output.png)
+    ![Artemis Output](img/output.jpeg)

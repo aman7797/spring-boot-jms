@@ -51,3 +51,8 @@
     --header 'Content-Type: application/json' \
     --data-raw '{"id":"1000", "name":"Aman"}'
     ```
+
+
+## Output
+
+    ![Artemis Output](img/output.png)

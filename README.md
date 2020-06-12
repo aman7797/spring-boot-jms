@@ -10,7 +10,7 @@ Messaging is processing business data or information across application
 
 ![Basic Architecture](img/basic_architecture.png)
 
-Someone of the MQ
+Some of the MQ
 1. Apache Active MQ
 2. Sonic MQ
 3. Websphere MQ
